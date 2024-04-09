@@ -1,10 +1,10 @@
 # Makefile
-#Dog breed classification using ML
+Dog breed classification using ML
 
-##There are two main components:
-### model_definitions.py
+###There are two main components:
+1. model_definitions.py
 
-### train_model.py
+2. train_model.py
 
-#Data Set
-Stanford Dog Dataset
+###Data Set
+1. Stanford Dog Dataset
